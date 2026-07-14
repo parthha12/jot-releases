@@ -4,7 +4,7 @@ Public release artifacts for **[Jot](https://parthha12.github.io/)** (macOS).
 
 - **Download:** [Latest release](https://github.com/parthha12/jot-releases/releases/latest)
 - **Website:** https://parthha12.github.io/
-- **Source code:** private — this repo contains installers only.
+- **Source:** private — [parthha12/jot](https://github.com/parthha12/jot) (collaborators)
 
 ## Install
 
